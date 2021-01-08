@@ -1,1 +1,5 @@
-console.log('hola mundo')
+const hola = 'hola mundo'
+
+
+console.log(hola)
+
